@@ -58,11 +58,11 @@ In this notebook, feature selection and encoding techniques are applied to the p
 streamlit run LaptopPricePrediction.py
 ```
 
-### Role and Contributions
+## Role and Contributions
 I played a pivotal role in:
 - Conducting data exploration, preprocessing, and feature engineering.
 - Developing and evaluating machine learning models.
 - Creating the Streamlit application for real-time predictions.
 
-### Tags
+## Tags
 Machine Learning, Data Visualization, Statistical Analysis, Streamlit, XGBoost, Prediction, Laptop Sales
